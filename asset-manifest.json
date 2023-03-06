@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/toyan-office/static/css/main.788a968f.css",
-    "main.js": "/toyan-office/static/js/main.ef6425c3.js",
+    "main.js": "/toyan-office/static/js/main.55e2066e.js",
     "static/js/787.99055a10.chunk.js": "/toyan-office/static/js/787.99055a10.chunk.js",
     "static/media/blog1.jpg": "/toyan-office/static/media/blog1.a38dc80a08a874b19795.jpg",
     "static/media/employ.jpg": "/toyan-office/static/media/employ.4c34dcae618acf1244b6.jpg",
@@ -26,11 +26,11 @@
     "index.html": "/toyan-office/index.html",
     "static/media/getFetch.cjs": "/toyan-office/static/media/getFetch.40f37ddea2378391108f.cjs",
     "main.788a968f.css.map": "/toyan-office/static/css/main.788a968f.css.map",
-    "main.ef6425c3.js.map": "/toyan-office/static/js/main.ef6425c3.js.map",
+    "main.55e2066e.js.map": "/toyan-office/static/js/main.55e2066e.js.map",
     "787.99055a10.chunk.js.map": "/toyan-office/static/js/787.99055a10.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.788a968f.css",
-    "static/js/main.ef6425c3.js"
+    "static/js/main.55e2066e.js"
   ]
 }
